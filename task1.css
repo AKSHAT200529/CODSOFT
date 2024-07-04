@@ -1,0 +1,79 @@
+@font-face {
+    src:url(fonts/OneDirection.ttf)format("truetype");
+    font-family: nos;
+}
+.paragraph{
+    text-align: center;
+    font-size: 30px;
+    font-family:sans-serif;
+    color: #ef476f;
+}
+.paragraph2{
+    text-align:center;
+    font-size: 50px;
+    font-family: nos;
+    color: #8d99ae;
+}
+.menu-bar
+{
+text-align:center;
+background-color: #f1faee;
+}
+.menu-bar ul
+{
+   display: inline-flex;
+   color:black;
+}
+.menu-bar ul li
+{
+    font-family: Impact;
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+.menu-bar ul li:hover
+{
+
+    background: #b1a7a6;
+    color: #2f3e46;
+    border-radius:3px;
+}
+
+
+
+
+.p1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: #073b4c;
+}
+.search input{
+    background-color:transparent;
+   height: 47px;
+  width: 317px;
+  border-radius: 25px;
+  color: #f4f1de;
+  border: solid;
+  border-color: white;
+  font-size: 18px;
+}
+.search{
+    display: flex;
+    justify-content: center;
+
+}
+.foooter{
+    height:10vh;
+    margin-top: 370px;
+    background-color: #edf6f9
+ 
+    
+
+}
+.p-2{
+    color: #dad7cd;
+    font-size: 27px;
+}
